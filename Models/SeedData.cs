@@ -47,7 +47,14 @@ public static class SeedData
                     ReleaseDate = DateTime.Parse("2019-4-15"),
                     Genre = "Romance",
                     Price = 2.99M
-                }
+                },
+                 new Movie
+                 {
+                     Title = "Greek God",
+                     ReleaseDate = DateTime.Parse("2019-03-12"),
+                     Genre = "War",
+                     Price = 3.99M
+                 }
             );
             context.SaveChanges();
         }

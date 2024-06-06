@@ -77,3 +77,15 @@ Edited the movies name with title genre price and release date
 1913 UTC
 https://localhost:7228/Movies
 
+1441 UTC
+
+
+1459 UTC
+Updated the database for the testing purpose
+
+1520 UTC
+Edited the movies name with title genre price and release date
+
+1641 UTC
+
+Testing and was successful
